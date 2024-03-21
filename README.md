@@ -62,7 +62,7 @@ Start the server
 
 ![App Screenshot](https://i.ibb.co/27BS9jj/image.png)
 
-![App Screenshot](https://i.ibb.co/FmpdPJN/image.png)
+![App Screenshot](https://i.ibb.co/86KcCSt/image.png)
 
 ![App Screenshot](https://i.ibb.co/gDKRtcz/image.png)
 
